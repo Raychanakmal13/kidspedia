@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'gloria_hallelujahregular';
+    src: url('fonts/gloriahallelujah-webfont.eot');
+    src: url('fonts/gloriahallelujah-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/gloriahallelujah-webfont.woff2') format('woff2'),
+         url('fonts/gloriahallelujah-webfont.woff') format('woff'),
+         url('fonts/gloriahallelujah-webfont.ttf') format('truetype'),
+         url('fonts/gloriahallelujah-webfont.svg#gloria_hallelujahregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'oleo_scriptbold';
+    src: url('fonts/oleoscript-bold-webfont.eot');
+    src: url('fonts/oleoscript-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/oleoscript-bold-webfont.woff2') format('woff2'),
+         url('fonts/oleoscript-bold-webfont.woff') format('woff'),
+         url('fonts/oleoscript-bold-webfont.ttf') format('truetype'),
+         url('fonts/oleoscript-bold-webfont.svg#oleo_scriptbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'oleo_scriptregular';
+    src: url('fonts/oleoscript-regular-webfont.eot');
+    src: url('fonts/oleoscript-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/oleoscript-regular-webfont.woff2') format('woff2'),
+         url('fonts/oleoscript-regular-webfont.woff') format('woff'),
+         url('fonts/oleoscript-regular-webfont.ttf') format('truetype'),
+         url('fonts/oleoscript-regular-webfont.svg#oleo_scriptregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'OpenSansRegular';
+    src: url('fonts/OpenSans-Regular-webfont.eot');
+    src: url('fonts/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/OpenSans-Regular-webfont.woff') format('woff'),
+         url('fonts/OpenSans-Regular-webfont.ttf') format('truetype'),
+         url('fonts/OpenSans-Regular-webfont.svg#OpenSansRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
